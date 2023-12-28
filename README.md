@@ -1,22 +1,38 @@
-## Hi I'm Prakash
+### Hi I'm Prakash
 
-I am a fullstack developer from India.
+I am a fullstack developer from India .
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joshiprakash" target="blank">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.leetcode.com/joshiprakash" target="blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" alt="joshiprakash" height="30" width="40" />
-</a>
-</p>
+### Connect with me:
+<a href="https://linkedin.com/in/joshiprakash" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://www.leetcode.com/joshiprakash" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" alt="joshiprakash" height="30" width="30" /></a>&nbsp;&nbsp;
+<a href="mailto:prakash.joshi167@gmail.com" target="_blank" title="prakash.joshi167@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>&nbsp;&nbsp;
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Currently I am working with ...
 
+<a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="TypeScript" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="JavaScript" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="MS SQL Server" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Postman" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Azure" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="C Sharp" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:300/1*A_Hg7NPIoARg0RmdsVapqg.png" alt="csharp" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="CSS3" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title=".NET Core" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="dotnet" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="HTML5" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="30" height="30"/></a>&nbsp;&nbsp;
+
+### I have also worked with ...
+
+<a href="" target="_blank" title="Golang" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="PostgreSQL" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Docker" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="MongoDB" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongo" width="30" height="30"/></a>&nbsp;&nbsp;
+
+
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash-joshi&show_icons=true&locale=en&layout=compact" alt="prakash-joshi" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakash-joshi&show_icons=true&locale=en" alt="prakash-joshi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-joshi&" alt="prakash-joshi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-joshi&" alt="prakash-joshi" /></p> 
+ -->
