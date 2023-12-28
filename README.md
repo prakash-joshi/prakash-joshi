@@ -1,12 +1,15 @@
-<h1 align="center">Hi, I'm Prakash Joshi</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+## Hi I'm Prakash
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash-joshi&label=Profile%20views&color=0e75b6&style=flat" alt="prakash-joshi" /> </p>
+I am a fullstack developer from India.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/joshiprakash" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://www.leetcode.com/joshiprakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="joshiprakash" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joshiprakash" target="blank">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.leetcode.com/joshiprakash" target="blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" alt="joshiprakash" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
