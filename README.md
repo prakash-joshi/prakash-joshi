@@ -20,7 +20,7 @@ I am a fullstack developer from India .
 <a href="" target="_blank" title="CSS3" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="MS SQL Server" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Postman" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Azure" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Microsoft Azure" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/640px-Microsoft_Azure.svg.png" alt="azure" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Azure Functions" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-icon.svg" alt="azure functions" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
